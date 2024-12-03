@@ -1,7 +1,4 @@
-# FV-GBPUSD-Stock-Analysis
-Submission for Fusion Versity (FV) Junior Data Science Project: Analysis of GBP/USD stock data with Python. The project includes data visualization, linear modeling, and correlation analysis.
-
-## FV-GBPUSD-Stock-Analysis Project
+# FV-GBPUSD-Stock-Analysis Project
 This repository contains the second project from the FV Junior Data Science course. The analysis focuses on the GBP/USD stock data to explore relationships between stock features using Python.
 
 ## Problem Statement
